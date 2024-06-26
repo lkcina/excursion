@@ -12,6 +12,7 @@ h1 {
     font-size: 50px;
     color: white;
     text-align: center;
+    font-weight: normal;
 }
 
 a {
@@ -33,4 +34,8 @@ p {
 
 #copyright {
     text-align: right;
+}
+
+img {
+    margin: 20px auto;
 }
